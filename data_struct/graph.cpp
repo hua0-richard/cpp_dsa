@@ -18,6 +18,10 @@ void Graph::print_matrix() {
     }
 }
 
+void Graph::draw_edge() {
+
+}
+
 int main() {
     Graph g = Graph(5);
     g.print_matrix();
